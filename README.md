@@ -1,7 +1,7 @@
 # Shop-Shop
 ![license](https://img.shields.io/badge/License-MIT-blue)
 
-This is an e-commerce shoping site built with MongoDB, Express, React and Node. This application will allow a user to add and remove items from a shopping cart and will run a test checkout using a stripe payment infrastructure.
+This is an e-commerce shopping site built with MongoDB, Express, React and Node. This application will allow a user to add and remove items from a shopping cart and will run a test checkout using a stripe payment infrastructure.
 
 # Installation
 
